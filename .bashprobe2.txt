@@ -1,0 +1,1 @@
+      0 [main] bash (15988) H:\Git\usr\bin\bash.exe: *** fatal error - couldn't create signal pipe, Win32 error 5
